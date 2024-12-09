@@ -1,0 +1,1 @@
+Лог представлен в файле Log information.txt
